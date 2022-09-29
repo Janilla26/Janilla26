@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently doing the Web Development Bootcamp Course of the London App Brewery.
-- 🌱 I’m currently learning React; Vue.js and Angular to follow.
+- 🔭 I’m currently working as a Freelancer in Web Development.
+- 🌱 I’m currently learning Vue.js & Angular.
 - 👯 I’m looking to collaborate on any social or purposeful project.
-- 🤔 I’m looking for help to find an (internship) opportunity in front-end development.
+- 🤔 I’m looking for help to learn Angular.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have an identical twin.
 
